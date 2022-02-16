@@ -2,4 +2,4 @@
 Gentoo Management Scripts
 
 # genlst
-generate a whole list for rebuild, without packages needs to be merged interactively 
+Generate a whole list for rebuild, interactively merged packages being removed.
